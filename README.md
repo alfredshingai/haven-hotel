@@ -2,7 +2,7 @@
 
 Premium small-business website for **HAVEN** boutique hotel and restaurant. Quiet luxury in Harare — 18 rooms, garden dining, pool & spa.
 
-**Live:** *(deploy to Vercel)* → `vercel.com/new` → Import repository
+**Live:** https://haven-hotel-eosin.vercel.app/
 
 ## Highlights
 - Booking bar with date validation (check-in/out, guests)
